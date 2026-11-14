@@ -1,0 +1,17 @@
+Trendle
+Copyright (c) 2026 James Larsen. All rights reserved.
+
+The game's code, design, artwork, question wording and scoring belong to James Larsen.
+You may play the game, share your results and screenshots, and link to it. You may not
+copy, republish, modify or resell the game, its code or its question set without written
+permission.
+
+This repository holds only the built website. Being able to see these files does not
+grant a licence to reuse them.
+
+The statistics come from the organizations credited in the game, under the Data Sources &
+Licensing page, and stay under their own licences. Third-party software and fonts are used
+under the licences listed in THIRD_PARTY_NOTICES.txt.
+
+Terms of use: https://fourthmeridiangames.com/trendle/#terms
+Privacy: https://fourthmeridiangames.com/trendle/#privacy
